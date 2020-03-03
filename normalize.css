@@ -3,7 +3,7 @@
    License: none (public domain)
 */
 body {
-  background-color: white;
+  background-color: rgb(244, 255, 218);
   cursor: default;
   box-sizing: border-box;
 }

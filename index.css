@@ -2,7 +2,7 @@
 #home {
     --first-color: #1e742d;
     --second-color: #00b92e;    
-    --light-gray: lightgray;
+    --light-gray: rgb(185, 185, 185);
 }
 
 #next {
@@ -45,7 +45,7 @@ body {
     margin-right: -280px;
 }
 .togglebar {
-    background-color: #232323;
+    background-color: #000f08fb;
     flex: 0 0;
     min-width: 50px;
     max-width: 5px;
@@ -241,7 +241,7 @@ form {
 form input, textarea {
     margin: 10px 0;
     border: 0;
-    background-color: lightgray;
+    background-color: rgb(255, 0, 0);
     border-radius: 5px;
     padding: 10px;
 }
